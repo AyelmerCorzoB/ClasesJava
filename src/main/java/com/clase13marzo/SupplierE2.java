@@ -9,7 +9,7 @@ import com.clase13marzo.comparator.Persona;
 
 public class SupplierE2 {
     public static void main(String[] args) {
-        String[] nombres = {"Ayelmer", "Elidallana", "Lorena", "Daniel"};
+        String[] nombres = {"Ayelmer", "Elidallana", "Lorena", "Daniel" , "Daniel"};
 
         Set<String> nombresUsados = new HashSet<>();
 
